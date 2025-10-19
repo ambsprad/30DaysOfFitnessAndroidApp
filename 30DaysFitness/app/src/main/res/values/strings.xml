@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">30 Days of Fitness</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Workout Days</string>
+    <string name="detail_fragment_label">Full Workout</string>
+    <string name="about_screen">About 30 Days of Fitness</string>
+    <string name="preferences_screen">Set Your Preferences</string>
+    <!-- Workout days -->
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5 </string>
+    <string name="day6">Day 6</string>
+    <string name="day7">Day 7</string>
+    <string name="day8">Day 8</string>
+    <string name="day9">Day 9</string>
+    <string name="day10">Day 10</string>
+    <string name="day11">Day 11</string>
+    <string name="day12">Day 12</string>
+    <string name="day13">Day 13</string>
+    <string name="day14">Day 14</string>
+    <string name="day15">Day 15</string>
+    <string name="day16">Day 16</string>
+    <string name="day17">Day 17</string>
+    <string name="day18">Day 18</string>
+    <string name="day19">Day 19</string>
+    <string name="day20">Day 20</string>
+    <string name="day21">Day 21</string>
+    <string name="day22">Day 22</string>
+    <string name="day23">Day 23</string>
+    <string name="day24">Day 24</string>
+    <string name="day25">Day 25</string>
+    <string name="day26">Day 26</string>
+    <string name="day27">Day 27</string>
+    <string name="day28">Day 28</string>
+    <string name="day29">Day 29</string>
+    <string name="day30">Day 30</string>
+
+    <!-- Workout Categories-->
+    <string name="rest">Rest</string>
+    <string name="cardio">Cardio</string>
+    <string name="chestAndBack">Chest and Back</string>
+    <string name="legs">Legs</string>
+    <string name="shouldersAndArms">Shoulders and Arms</string>
+    <string name="abs">Abs</string>
+
+    <string name="leg_workout_detail">
+        Jog on treadmill at a comfortable pace for warm-up duration.
+        \n\n
+        Complete each exercise back to back. Repeat 3 times.
+        \n
+        - Barbell Back Squat - 10 to 15 reps
+        \n
+        - Romanian Deadlifts - 10 to 15 reps
+        \n
+        - Glute Bridges - 15 - 20 reps
+        \n
+        - Leg Extensions - 15 - 20 reps
+        \n
+        - Leg Curl - 15 - 20 reps
+        \n\n
+        Walk on the treadmill at a comfortable incline for cool down duration.
+    </string>
+
+    <string name="chest_back_workout_detail">
+        Jump rope for 1 minute on and 1 minute off for the duration of your warm up duration.
+        \n\n
+        - Push Ups - As many as you can comfortably do.
+        \n
+        - Lateral Pull Downs (wide grips) - 10 to 15 reps
+        \n
+        - Chest Press - 10 - 15 reps
+        \n
+        - Seated Row - 15 - 20 reps
+        \n
+        - Assisted Pull Ups - 10 - 15 reps
+        \n
+        - Assisted Dips - 10 - 15 reps
+        \n\n
+        Walk on the treadmill at a comfortable incline for cool down duration.
+    </string>
+
+    <string name="cardio_workout_detail">
+        Jog on treadmill at a comfortable pace for warm-up duration.
+        \n\n
+        - Jump rope 1 minute on and 1 minute off for 10 minutes.
+        \n
+        - Walk on stair master on level 3 or 4 for 15 minutes.
+        \n\n
+        Walk on the treadmill at a comfortable incline for cool down duration.
+    </string>
+
+    <string name="abs_workout_detail">
+        Jog on treadmill at a comfortable pace for warm-up duration.
+        \n\n
+        Perform each exercise back to back. Repeat 4 times.
+        \n
+        - Mountain Climbers - 30 \n
+        - Sit Ups - 30 \n
+        - Russian Twists - 30 \n
+        - Leg Raises - 20 \n
+        - Plank 30 seconds - 1 minute \n
+        \n\n
+        Walk on the treadmill at a comfortable incline for cool down duration.
+    </string>
+
+    <string name="rest_workout_detail">
+        Congratulations! You have made it through a week of working out.
+        \n
+        Your rest day should be used for recovery.
+        \n
+        Use this day to stretch out those sore muscles!
+    </string>
+
+    <string name="shoulder_arms_workout_detail">
+        Jog on treadmill at a comfortable pace for warm-up duration.
+        \n\n
+        - Shoulder Press - 10 to 15 reps
+        \n
+        - Dumbbell Curls - 15 to 20 reps
+        \n
+        - Triceps Pushdown - 15 - 20 reps
+        \n
+        - Lateral Raises to Front Raises - 10 - 15 reps
+        \n
+        - Dumbbell Hammer Curl - 15 - 20 reps
+        \n
+        - Dumbbell Overhead triceps Extension - 15 - 20 reps
+        \n\n
+        Walk on the treadmill at a comfortable incline for cool down duration.
+    </string>
+
+    <string name="help_screen_text">
+        The 30 Day Fitness app is your guide to living a more active life! \n
+        This app is meant to supplement a well-balanced diet and help you with your fitness goals.\n\n
+        Please note, there are no weight suggestions for the listed exercises.  It is recommended
+        that you start with a weight that is most comfortable for you.  Each week you should either
+        increase your weight or increase the number of reps.\n\n
+        If you need extra days of rest, TAKE THEM!  Just jump back in and pick up where you left off! \n\n
+        Please consult with your doctor if you have any medical concerns. \n\n
+    </string>
+    <string name="pref_label">Preferences</string>
+    <string name="pref_help_screen_text">
+        The preferences in this app is used to set your warm-up periods and cool-down periods. \n
+        You can choose for your warm-up period to be either 5, 7, or 10 minutes with the default being 10 minutes. \n
+        You can choose for your cool-down period to be either 5, 10, or 15 minutes with the default being 15 minutes. \n
+        These preferences will be reflected in the daily workouts.
+    </string>
+
+
+    <string name="back_button">Back</string>
+</resources>
